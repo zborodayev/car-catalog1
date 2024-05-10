@@ -1,19 +1,5 @@
-.div{
-    border: 3px solid rgb(172, 172, 172);
-    background-color: rgb(220, 220, 220);
-}
-.input{
-    border: none;
-    padding: 12px;
-    background-color:rgb(232, 232, 232);
-    margin: .8rem;
-}
-.button{
-    border: none;
-    background-color: rgb(220, 220, 220);
-    margin: .8rem;
-    padding:11px;
-}
-.image{
-    margin-top: 1rem;
+.buttons{
+    border: 1px solid gray;
+    border-radius: 1px;
+    text-align: center;
 }
